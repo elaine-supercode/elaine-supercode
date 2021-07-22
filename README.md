@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elaine
-- 👀 I’m interested in Web Development Fullstack
+- 👀 I’m interested in Web Development Frontend
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on amazing projects that are changing the world to a better one!
 - 📫 How to reach me ...
